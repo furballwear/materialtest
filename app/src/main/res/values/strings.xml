@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">materialtest</string>
+    <string name="app_name">Movivz</string>
     <string name="title_activity_main">Movivz</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
@@ -38,5 +38,11 @@
     <string name="action_add">+</string>
     <string name="action_remove">-</string>
     <string name="add_item">Add Item</string>
+    <string name="title_activity_activity_calling">Content A</string>
+    <string name="title_activity_activity_called">Content B</string>
+    <string name="action_activity_calling">ContentTransitions</string>
+    <string name="title_activity_activity_shared">Shared A</string>
+    <string name="title_activity_activity_shared_b">Shared B</string>
+    <string name="action_shared_transitions">SharedElementsTransition</string>
 
 </resources>
